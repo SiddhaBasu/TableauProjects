@@ -28,7 +28,7 @@ This interactive dashboard visualizes video game sales data across different tim
 - Bar charts for Global Sales to display the most popular genres
 - Interactive filters to customize views based on time periods, platforms, and genres
 
-**Access the Dashboard:** [Video Game Sales Visualization Dashboard]([Your-Dashboard-Link](https://public.tableau.com/app/profile/sid.basu/viz/VideoGameSales_17093609913120/Dashboard1))
+**Access the Dashboard:** [Video Game Sales Visualization Dashboard](https://public.tableau.com/app/profile/sid.basu/viz/VideoGameSales_17093609913120/Dashboard1)
 
 ---
 
